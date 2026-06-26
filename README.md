@@ -3,7 +3,7 @@
 Explore the latest Dutch Bros Menu with updated prices, drinks, secret menu, nutrition facts, and seasonal beverages.
 
 🌐 Website:
-https://dutchmenu.com
+https://dutcmenu.com
 
 ## What You'll Find
 
@@ -15,4 +15,4 @@ https://dutchmenu.com
 - Latest Prices
 
 Visit our website:
-https://dutchmenu.com
+https://dutcmenu.com
